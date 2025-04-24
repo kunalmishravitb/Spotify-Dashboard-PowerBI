@@ -1,4 +1,4 @@
-# 🎵 Spotify Listening Insights Dashboard - Power BI
+# 🎧 Spotify Listening Insights Dashboard - Power BI
 
 This repository showcases an interactive Power BI dashboard that visualizes Spotify streaming history data, providing in-depth insights into user listening behavior across albums, artists, and tracks. It also explores daily and hourly engagement patterns to identify when users are most active and what content drives the highest engagement.
 
